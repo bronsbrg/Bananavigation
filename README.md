@@ -16,7 +16,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 - **`2`** - turn left.
 - **`3`** - turn right.
 
-The task is episodic, and the environment is considered solved when the agent gets an average score of +13 over 100 consecutive episodes.
+The task is episodic, and the environment is considered solved when the agent gets an average score of +13 over 100 consecutive episodes per project requirements, although +16 was used here to stress the agent slightly more as this is still inclusive of the required +13.
 
 ### Getting Started
 
