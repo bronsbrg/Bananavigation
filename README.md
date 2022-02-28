@@ -2,6 +2,7 @@
 A deep reinforcement learning implementation to collect bananas in an ML-Agents Unity environment, built for the Udacity nanodegree program.
 
 # Project 1: Navigation
+![Collecting bananas GIF](CollectingBananas.gif)
 
 ### Introduction
 
